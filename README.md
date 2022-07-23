@@ -8,7 +8,7 @@ is a method of vector quantization that aims to partition n observations into k 
    
    3-to set number of threads : export OMP_NUM_THREADS= __Any__  __Number__ 
    
-   4-to run : ./a.out 
+   4-to run :  ./a.out 
 
 
 ## Requirements:
