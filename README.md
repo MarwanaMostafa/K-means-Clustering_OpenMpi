@@ -5,7 +5,7 @@ is a method of vector quantization that aims to partition n observations into k 
 ## Requirements:
    1-Number of data points(which point are in 2 dimension (X,Y) )
    
-   2-file to read the points
+   2-file to read point
    
    3-Number of Clusters and for first time  i Initiate 2 random numbers(X,Y) for each cluster  (assume number of clusters equal number of threads)
    
