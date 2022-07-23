@@ -1,6 +1,15 @@
 # K-means-Clustering_OpenMpi_Parallel Processing
 is a method of vector quantization that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid ), serving as a prototype of the cluster
 
+## How to run 
+   1-you must have a virtual machine
+   
+   2-to compile code : gcc -fopenmp __ FILENAME.c __
+   
+   3-to set number of threads : export OMP_NUM_THREADS= __ Any__  __Number __ 
+   
+   4-to run : ./a.out 
+
 
 ## Requirements:
    1-Number of data points(which point are in 2 dimension (X,Y) )
