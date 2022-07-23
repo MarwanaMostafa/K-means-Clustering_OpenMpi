@@ -4,9 +4,9 @@ is a method of vector quantization that aims to partition n observations into k 
 ## How to run 
    1-you must have a virtual machine
    
-   2-to compile code : gcc -fopenmp __ FILENAME.c __
+   2-to compile code : gcc -fopenmp __FILENAME.c__
    
-   3-to set number of threads : export OMP_NUM_THREADS= __ Any__  __Number __ 
+   3-to set number of threads : export OMP_NUM_THREADS= __Any__  __Number__ 
    
    4-to run : ./a.out 
 
