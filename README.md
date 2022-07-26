@@ -20,3 +20,16 @@ is a method of vector quantization that aims to partition n observations into k 
    
    4-using mean square error to calculate distance
    
+   
+  
+## See Also:
+
+  * [Sum-of-Convergent-Series Using MPI](https://github.com/MarwanaMostafa/Parallel-Processing-Sum-of-Convergent-Series-MPI)
+
+  * [Histogram Usin MPI and OPENMP](https://github.com/MarwanaMostafa/Parallel-Processing_Histogram_MPI-and-OPENMP)
+
+  * [Divide Data by standard function Using MPI](https://github.com/MarwanaMostafa/Parallel-Processing-Sum-of-Convergent-Series-MPI/tree/main/Divide%20Data%20By%20Standard%20Function)
+
+
+
+
